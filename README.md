@@ -7,7 +7,7 @@
 ## 課程筆記區🧳
 
 ## 作業連結區🎖️
-HW1 https://velisca.github.io/html/
+HW1 https://velisca.github.io/get-to-know-me/
 
 ## 專題連結區⚓️
 Markdown 語法說明: https://www.markdownguide.org/basic-syntax/
