@@ -4,9 +4,10 @@
 姓名：潘柔玉  
 系級：科技系2年級  
 
-## 課程筆記區
+## 課程筆記區🧳
 
-## 作業連結區
+## 作業連結區🎖️
+HW1 https://velisca.github.io/html/
 
-## 專題連結區
+## 專題連結區⚓️
 Markdown 語法說明: https://www.markdownguide.org/basic-syntax/
