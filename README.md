@@ -5,11 +5,11 @@
 系級：科技系2年級  
 
 ## 課程筆記區🧳
-Week 2: Creating a static web  
+#### Week 2: Creating a static web  
 CSS = place between head and body  
 JS = place in body  
 
-Creating the web (main points)  
+**Creating the web (main points)**  
 - github > page > branch > none to main root
 - code > copy link > paste to clone a repository  > url  > local path > choose > desktop/docs > clone  
 - paste all the files to the clone folder
