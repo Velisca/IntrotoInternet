@@ -20,7 +20,7 @@ __Creating the web (main points)__
 - your site is live at --------- (the required link)  
 
 ## 作業連結區🎖️
-HW1 ----> [Autobiography (https://velisca.github.io/get-to-know-me/)]
+HW1 ----> [Autobiography](https://velisca.github.io/get-to-know-me/)
 
 ## 專題連結區⚓️
 Markdown 語法說明: https://www.markdownguide.org/basic-syntax/
