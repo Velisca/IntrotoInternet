@@ -5,11 +5,11 @@
 系級：科技系2年級  
 
 ## 課程筆記區🧳
-#### Week 2: Creating a static web  
+#### Week 2: Creating a static web
 CSS = place between head and body  
 JS = place in body  
 
-**Creating the web (main points)**  
+__Creating the web (main points)__  
 - github > page > branch > none to main root
 - code > copy link > paste to clone a repository  > url  > local path > choose > desktop/docs > clone  
 - paste all the files to the clone folder
@@ -20,7 +20,7 @@ JS = place in body
 - your site is live at --------- (the required link)  
 
 ## 作業連結區🎖️
-HW1 https://velisca.github.io/get-to-know-me/
+HW1 ----> [Autobiography] <https://velisca.github.io/get-to-know-me/>
 
 ## 專題連結區⚓️
 Markdown 語法說明: https://www.markdownguide.org/basic-syntax/
