@@ -5,7 +5,7 @@
 系級：科技系2年級  
 
 ## 課程筆記區🧳
-#### Week 2: Creating a static web
+### Week 2: Creating a static web
 CSS = place between head and body  
 JS = place in body  
 
@@ -20,7 +20,7 @@ __Creating the web (main points)__
 - your site is live at --------- (the required link)  
 
 ## 作業連結區🎖️
-HW1 ----> [Autobiography] <https://velisca.github.io/get-to-know-me/>
+HW1 ----> [Autobiography] (https://velisca.github.io/get-to-know-me/)
 
 ## 專題連結區⚓️
 Markdown 語法說明: https://www.markdownguide.org/basic-syntax/
