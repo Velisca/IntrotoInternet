@@ -17,7 +17,11 @@ __Creating the web (main points)__
 - settings > pages > branch > main > root > save  
 - publish branch / push > fetch origin > refresh github
 - check if it's uploaded
-- your site is live at --------- (the required link)  
+- your site is live at --------- (the required link)
+
+### Week 3: DNS Server
+OSI 7 Layers: P D N T S P A  
+Physical Layer; Data Link Layer; Network Layer; Transport Layer; Session Layer; Physical Layer(jpg, html, etc); Application Layer(the one we see)  
 
 ## 作業連結區🎖️
 HW1 ----> [Autobiography](https://velisca.github.io/get-to-know-me/)
