@@ -38,6 +38,7 @@ After the problem is found, go back to the original code, change it, reload and 
 
 <title> </title> = the title seen in the tab  
 <div> = frame  
+<form> </form> = creating a container for different types of input elements, ex: buttons, text, etc  
 
 ## 作業連結區🎖️
 HW1 ----> [Autobiography](https://velisca.github.io/get-to-know-me/)
