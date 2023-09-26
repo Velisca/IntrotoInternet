@@ -23,6 +23,17 @@ __Creating the web (main points)__
 OSI 7 Layers: P D N T S P A  
 Physical Layer; Data Link Layer; Network Layer; Transport Layer; Session Layer; Physical Layer(jpg, html, etc); Application Layer(the one we see)  
 
+### Week 4: HTTP Status Code
+1xx = Informational responses. 
+Request received and being processed  
+2xx = Successful responses  
+Everything is okay and as you wanted  
+3xx = Redirection responses  
+4xx = Client Errors  
+"Villains", the server cannot handle the request from the browser  
+5xx = Server Errors  
+It's the server's fault. Check the server it might be down/overloaded/might not have the resources it needed  
+
 ## 作業連結區🎖️
 HW1 ----> [Autobiography](https://velisca.github.io/get-to-know-me/)
 
