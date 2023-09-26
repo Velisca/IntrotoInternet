@@ -34,6 +34,11 @@ Everything is okay and as you wanted
 5xx = Server Errors  
 It's the server's fault. Check the server it might be down/overloaded/might not have the resources it needed  
 
+After the problem is found, go back to the original code, change it, reload and try again  
+
+<title> </title> = the title seen in the tab  
+<div> = frame  
+
 ## 作業連結區🎖️
 HW1 ----> [Autobiography](https://velisca.github.io/get-to-know-me/)
 
