@@ -43,4 +43,4 @@ After the problem is found, go back to the original code, change it, reload and 
 HW1 ----> [Autobiography](https://velisca.github.io/get-to-know-me/)
 
 ## 專題連結區⚓️
-Markdown 語法說明: https://www.markdownguide.org/basic-syntax/
+[Markdown 語法說明](https://www.markdownguide.org/basic-syntax/)
