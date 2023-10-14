@@ -42,6 +42,7 @@ After the problem is found, go back to the original code, change it, reload and 
 
 ## 作業連結區🎖️
 HW1 ----> [Autobiography](https://velisca.github.io/get-to-know-me/)
+HW2 ----> [Video](https://youtu.be/OI2uZrDEwLY)
 
 ## 專題連結區⚓️
 [Markdown 語法說明](https://www.markdownguide.org/basic-syntax/)
